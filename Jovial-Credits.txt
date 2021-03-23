@@ -1,0 +1,3 @@
+Original work by Lloyd Smedbron
+
+Javascript markup by Andy Cox
